@@ -9,7 +9,7 @@ Este proyecto es para la asignatura de Acceso a Datos del segundo curso en Desar
 - **Servicio de Traducción, Directivas, Pipes:** Funcionalidades para mejorar la experiencia de usuario con traducciones y formatos de datos.
 
 ## Consumo de Datos de la API REST
-Este proyecto consume datos de Nookipedia, una API REST que proporciona información detallada sobre 'Animal Crossing: New Horizons'. Esta integración permite acceder a datos actualizados sobre personajes, ítems y eventos del juego.
+Este proyecto consume datos de Nookipedia, una API REST que proporciona información detallada sobre 'Animal Crossing: New Horizons'. 
 
 ## Tecnologías Utilizadas
 ### Front-end
