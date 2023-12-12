@@ -21,4 +21,8 @@ HTML/CSS: Para estructurar y estilizar la interfaz de usuario.
 ### Back-end
 Strapi desplegado de forma pública en la red a través de render
 
+## Enlace a la página
+https://nookstoolbox.netlify.app
+
 ## Video de demostración
+https://youtu.be/ujtb861nbr4
